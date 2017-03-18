@@ -1,0 +1,4 @@
+private/
+bin/
+logs/
+database.sqlite3
